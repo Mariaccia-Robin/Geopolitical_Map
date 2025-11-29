@@ -1,0 +1,10 @@
+dash
+plotly
+pandas
+pycountry
+wikipedia-api
+faiss-cpu
+sentence_transformers
+openai
+tqdm
+openpyxl
