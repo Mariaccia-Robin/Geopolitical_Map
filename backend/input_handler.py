@@ -4,7 +4,9 @@ Created on Fri Nov 28 21:34:35 2025
 
 @author: robin
 """
-from .wikipedia_scraper import harvest_world_data
+#from .wikipedia_scraper import harvest_world_data
+
+#from .wikipedia_handler import scrape_bilateral_relations_data
     
 def update_corpus():
     """
@@ -20,10 +22,10 @@ def update_corpus():
     -------
     None
     """
+    #Builds the wikipedia index with everysingle wikipedia page about international relations
+    #scrape_bilateral_relations_data()
     
-    #Creates the wikipedia index
-    harvest_world_data()
-    #download_world_data()
+
     return
             
     
