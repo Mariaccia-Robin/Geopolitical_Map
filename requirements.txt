@@ -7,4 +7,7 @@ faiss-cpu
 sentence_transformers
 openai
 tqdm
+tiktoken
 openpyxl
+langchain-text-splitters
+qdrant-client
